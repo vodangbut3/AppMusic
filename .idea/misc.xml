@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable-v24/ic_delete_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.23229166666666667" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable/background_item_artist.xml" value="0.2203125" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable/button.xml" value="0.14074074074074075" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable/edit_text_bottom.xml" value="0.14074074074074075" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable/ic_account.xml" value="0.2203125" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable/ic_edit_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable/ic_email.xml" value="0.2203125" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/drawable/ripple_16dp_transparent.xml" value="0.2203125" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/activity_chao.xml" value="0.20416666666666666" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/activity_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/activity_veryphone.xml" value="0.25" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/fragment_home.xml" value="0.2128623188405797" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/item_album.xml" value="0.19791666666666666" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/item_play_bai_hat.xml" value="0.1983695652173913" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/item_playlist.xml" value="0.1983695652173913" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/item_song_info.xml" value="0.22" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/item_songnew.xml" value="0.1983695652173913" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/menu/search_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/MusicApp/MusicApp/app/src/main/res/menu/setting_menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/activity_playmusic.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/activity_registration.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/changepass.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/changepassss.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/dangky.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/fragment_search.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/item_playlist.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/item_song_info.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/item_songnew.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/loading.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/MusicApp_v3/app/src/main/res/layout/userfragment.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/drawable-v24/emergency_icon.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/drawable-v24/ic_account_circle_black_24dp.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/drawable-v24/ic_baseline_insert_top.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/drawable-v24/ic_loop_black_24dp.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/drawable-v24/ic_shuffle_black_24dp.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/drawable/addicon.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_acti_main_frag.xml" value="0.2546875" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_chao.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_for_got_pass_word.xml" value="0.20625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_home.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_login.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_main.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_playmusic.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_registration.xml" value="0.1529888551165147" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_user_play_list.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/changefrofile.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/changepass.xml" value="0.20625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/changepassss.xml" value="0.20625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/dangky.xml" value="0.2703804347826087" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_home.xml" value="0.1529888551165147" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_play_danh_sach_cac_bai_hat.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_playlist.xml" value="0.12183383991894631" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_top.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/fragment_user.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_album.xml" value="0.1529888551165147" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_play_bai_hat.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_playlist.xml" value="0.2988679352838745" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_search.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_song_info.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/item_songnew.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/main_activity.xml" value="0.1529888551165147" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/userfragment.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/layout/userplaylist.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MusicApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Dinh Ngoc Tang/Desktop/MusicApp_v3/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/drawable-v24/arrow_next_icon.xml" value="0.134375" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/drawable-v24/emailicon.xml" value="0.134375" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/drawable/ic_baseline_pause.xml" value="0.109375" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/activity_home.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/activity_login.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/activity_playmusic.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/changepass.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/fragment_account.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/fragment_bai_hat_thich_nhat.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/fragment_home.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/fragment_play_danh_sach_cac_bai_hat.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/fragment_search.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/item_play_bai_hat.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/item_playlist.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/item_search.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/item_song_info.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/HOANGBAY/Desktop/DuAn1/MusicApp/app/src/main/res/layout/userfragment.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/activity_acti_main_frag.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/activity_chao.xml" value="0.25" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/activity_home.xml" value="0.11" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/activity_main2.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/activity_playmusic.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/dangky.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/fragment_account.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/fragment_home.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/fragment_playlist.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/fragment_search.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/item_album.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/item_play_bai_hat.xml" value="0.33" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/item_playlist.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/item_song_info.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/item_songnew.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/loading.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/layout/main_activity.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/menu/search_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HOANGBAY/Documents/MusicApp/app/src/main/res/menu/setting_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/activity_home.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/fragment_bai_hat_thich_nhat.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/fragment_home.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/fragment_play_danh_sach_cac_bai_hat.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/fragment_search.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/item_album.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/item_play_bai_hat.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/item_playlist.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/item_search.xml" value="0.1947463768115942" />
+        <entry key="..\:/Users/HOANGBAY/Pictures/VUTANG/MusicApp/app/src/main/res/layout/item_song_info.xml" value="0.1947463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

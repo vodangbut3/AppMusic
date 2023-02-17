@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change PassWord"
+        android:textSize="26dp"
+        android:gravity="center"
+        android:textColor="@color/purple_500"
+        android:background="@color/teal_200"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nhap mat khau cu"
+            android:id="@+id/edtMkOld"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Mat khau moi"
+                android:id="@+id/edtMkNew"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Nhap lai mat khau"
+                    android:id="@+id/edtMkNew1">
+
+                </com.google.android.material.textfield.TextInputEditText>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <Button
+                        android:layout_width="40dp"
+                        android:layout_height="48dp"
+                        android:layout_weight="1"
+                        android:layout_margin="8dp"
+                        android:text="Thay doi"
+                        android:id="@+id/btnThayDoi"
+                        ></Button>
+                    <Button
+                        android:layout_width="40dp"
+                        android:layout_height="48dp"
+                        android:layout_weight="1"
+                        android:layout_margin="8dp"
+                        android:text="Hủy"
+                        android:id="@+id/btnHuyThayDoi"></Button>
+
+                </LinearLayout>
+
+            </com.google.android.material.textfield.TextInputLayout>
+        </com.google.android.material.textfield.TextInputLayout>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+</LinearLayout>

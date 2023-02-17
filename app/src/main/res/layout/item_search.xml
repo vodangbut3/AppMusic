@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/textviewplaynhacindex"
+            android:layout_width="wrap_content"
+            android:layout_height="@color/primaryTitleColor"
+            android:layout_margin="10dp"
+
+            android:textColor="@color/black"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/textviewplaynhactenbaihat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="116dp"
+            android:layout_toRightOf="@+id/textviewplaynhacindex"
+            android:ellipsize="end"
+            android:maxWidth="250dp"
+            android:singleLine="true"
+            android:text="Ten Ca Khuc"
+            android:textColor="@color/black"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/textviewplaynhactencasi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textviewplaynhactenbaihat"
+            android:layout_marginLeft="128dp"
+            android:layout_marginTop="2dp"
+            android:layout_toRightOf="@+id/textviewplaynhacindex"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="Ca si"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="107dp"
+            android:layout_height="70dp"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <ImageButton
+            android:id="@+id/playButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="225dp"
+            android:layout_marginEnd="21dp"
+            android:layout_toEndOf="@+id/imageView"
+            app:srcCompat="@drawable/ic_baseline_play" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

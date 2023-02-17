@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="search_hint">Nhập Tên Bài Hát</string>
+    <string name="facebook_app_id">588646709115980</string>
+    <string name="fb_login_protocol_scheme">fb588646709115980</string>
+
+</resources>

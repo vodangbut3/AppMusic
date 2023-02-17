@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.playmusic"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#C15DDF">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tên Bài Hát"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:textStyle="normal"
+        android:id="@+id/tenbaihat"
+        android:layout_marginLeft="30dp"
+        android:padding="7dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tên Ca Sỹ"
+        android:textStyle="normal"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:id="@+id/tencasy"
+        android:layout_marginLeft="40dp"/>
+
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="match_parent"
+        android:layout_height="413dp"
+        android:layout_marginTop="20dp"
+        app:srcCompat="@drawable/dianhac" />
+
+    <com.tbuonomo.viewpagerdotsindicator.DotsIndicator
+        android:id="@+id/dotsIndicator_music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="10dp"
+        app:dotsColor="@color/primaryTitleColor"
+        app:dotsCornerRadius="8dp"
+        app:dotsSize="10dp"
+        app:dotsSpacing="4dp"
+        app:dotsWidthFactor="2.5"
+        app:progressMode="false"
+        app:selectedDotColor="#00ACC1" />
+
+    <LinearLayout
+        android:layout_marginTop="18dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="11dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/player_position"
+            android:text="00:00"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
+        <SeekBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/seek_bar"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/player_duration"
+            android:text="00:00"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        android:gravity="center">
+
+        <ImageButton
+            android:id="@+id/imgbtnsuffle"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="15dp"
+            android:background="@null"
+            android:scaleType="fitXY"
+
+            app:srcCompat="@drawable/ic_shuffle_black_24dp" />
+
+        <Button
+            android:id="@+id/bt_prev"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:textColor="@color/white"
+            android:background="@drawable/ic_baseline_prev"/>
+        <Button
+            android:id="@+id/bt_play"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/ic_baseline_play"/>
+
+        <Button
+            android:id="@+id/bt_pause"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/ic_baseline_pause"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/bt_next"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/ic_baseline_next"/>
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="15dp"
+            android:id="@+id/imgbtnrepeat"
+            android:background="@null"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/ic_loop_black_24dp"/>
+
+        <ImageView
+            android:id="@+id/imgAddUserPl"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/addicon"
+
+            ></ImageView>
+    </LinearLayout>
+
+
+</LinearLayout>
