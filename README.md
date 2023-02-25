@@ -1,5 +1,4 @@
 # AppMusic
-App nghe nhạc:
 
 +Có thê tạo playlist yêu thích.
 
